@@ -1,7 +1,7 @@
 # Hi! I'm Anjali 👋
 📍 Boston, MA
 
-I'm a second year student at Northeastern University passionate about the intersection of technology and finance! I'm interested in developing software solutions and leveraging AI to transform the financial industry and create meaningful impact.
+I'm a second year student at Northeastern University passionate about the intersection of technology and finance! I'm interested in developing software solutions and leveraging AI to transform industries and create meaningful impact.
 
 ### 📊 Experience
 - April 2025 - Present: Software Developer in Code4Community - Software Consulting Club @ Northeastern
